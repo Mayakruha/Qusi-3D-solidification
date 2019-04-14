@@ -1,0 +1,2 @@
+Simple quasi 3D model of a continuous casting billet for calculations of shrinkage, solid shell thickness, stress/temperature distribution. Stresses, strains etc are calculated on basis of the suggestion that the cross-section normal to vilocity stay being plane.
+The model was used to calculate creep strain to optimize a mould surface (see article "Improvement of quality of slabs by using the upgraded geometry of the casting surface of mold narrow plates" - 6th European Conference on Continuous Casting 2008 (Riccione, Italy 3-6 June 2008)). 
